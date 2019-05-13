@@ -1,0 +1,8 @@
+applications:
+- path: presentation
+  memory: 128M
+  instances: 1
+  domain: au-syd.mybluemix.net
+  name: deakin-garage-story
+  host: deakin-garage-story
+  disk_quota: 256M
