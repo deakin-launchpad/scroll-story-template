@@ -659,11 +659,12 @@ z-index: 1000;
   padding: 100px 0;
   text-align: center;
   color: white;
-  background: url(../img/intro-bg.jpg) no-repeat;
+  background: url(../img/intro-bg.png) no-repeat;
   background-color: #002849;
   background-size: cover;
   -o-background-size: cover; }
   .intro .intro-body {
+    background-color: rgba(0, 0, 1, 0.5) !important;
     display: table-cell;
     vertical-align: middle; }
     .intro .intro-body .brand-heading {
